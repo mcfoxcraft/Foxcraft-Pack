@@ -10,14 +10,14 @@ hand — releases are produced from that source.
 
 ## Current release
 
-- **URL:** https://github.com/mcfoxcraft/Foxcraft-Pack/releases/download/v1.0.0/foxcraft-resourcepack.zip
-- **SHA-1:** `a424be01ba6c29cda9afcab7243fd4708b082f4c`
+- **URL:** https://github.com/mcfoxcraft/Foxcraft-Pack/releases/download/v1.1.3/foxcraft-resourcepack.zip
+- **SHA-1:** `e24e8fc2dc2078b16efbe49e792f6ecd26573948`
 
 ### server.properties
 
 ```properties
-resource-pack=https://github.com/mcfoxcraft/Foxcraft-Pack/releases/download/v1.0.0/foxcraft-resourcepack.zip
-resource-pack-sha1=a424be01ba6c29cda9afcab7243fd4708b082f4c
+resource-pack=https://github.com/mcfoxcraft/Foxcraft-Pack/releases/download/v1.1.3/foxcraft-resourcepack.zip
+resource-pack-sha1=e24e8fc2dc2078b16efbe49e792f6ecd26573948
 require-resource-pack=false
 ```
 
